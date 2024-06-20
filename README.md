@@ -1,4 +1,5 @@
 # BALLS
+# DATABASE OF ALL GEN 9 POKEBALLS COLLATED COLLECTION BY XGC 
 "All your balls are belong to Us"
 
 **Repository Contents:**
@@ -6,6 +7,7 @@
 
 ## Credits
 * Project Pokemon for collating the majority of the assets in the collections. 
+* Xieon - [Xieon's Gaming Corner](https://discord.gg/xieon) 
 * Rich (XGC)  - thanks for initially collecting the balls images independant of PP Org 
 
 ## Disclaimer on Dependencies: 
